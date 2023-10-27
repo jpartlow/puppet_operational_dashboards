@@ -1444,7 +1444,7 @@
               "condition": "AND",
               "key": "mbean",
               "operator": "=",
-              "value": "global.processed"
+              "value": "puppetlabs.puppetdb.mq:name=global.processed"
             }
           ]
         }
